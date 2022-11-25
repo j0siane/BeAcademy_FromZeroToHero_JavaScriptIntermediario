@@ -1,2 +1,15 @@
 # BeAcademy_FromZeroToHero_JavaScriptIntermediario
-Repositório destinado aos exemplos dados nas aulas de JavaScript
+Conteúdo do módulo:
+
+*Variáveis
+*IIFE / Arrow functions
+*For / Loop
+*Prototypes e herança
+*Orientação a Objetos
+*Classes
+*Herança
+*Callbacks
+*Promisses / Async/ Await
+*Try/Catch
+*Rest Spread / Destructuring
+*Recrusion
